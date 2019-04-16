@@ -31,7 +31,7 @@ we’re making the switch to [Semantic Versioning](https://semver.org/), this ch
  * We will be able to host and support several versions of semantically contained documentation resources.
  * Every time we make a new release with the PATCH change, our users should assume a completely backwards-compatible upgrade.
  * Every time we introduce new migrations (data and db) we will be increasing the MINOR version while providing automatic migration paths.
- * Every time we push a new major functionality we will be increasing the MINOR version.
+ * Every time we push a new major functionality we will be increasing the MAJOR version.
 
 ## Release cycles
 
